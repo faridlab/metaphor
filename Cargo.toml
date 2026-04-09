@@ -1,0 +1,15 @@
+[package]
+name = "metaphor"
+version = "0.1.0"
+edition = "2021"
+authors = ["Farid Hidayat <farid@startapp.id>"]
+description = "A general-purpose utility library for Rust"
+license = "MIT"
+repository = "https://github.com/faridlab/metaphor"
+homepage = "https://github.com/faridlab/metaphor"
+documentation = "https://docs.rs/metaphor"
+readme = "README.md"
+keywords = ["utility", "helpers", "tools"]
+categories = ["development-tools"]
+
+[dependencies]

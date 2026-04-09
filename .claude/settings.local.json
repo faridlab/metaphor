@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:crates.io)",
+      "Bash(git -C /Users/faridlab/startapp/frameworks/metaphora/metaphor config user.email)",
+      "Bash(cargo test:*)"
+    ]
+  }
+}
